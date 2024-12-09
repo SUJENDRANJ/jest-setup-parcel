@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": "0876",
+      "name": "dsddsdsd",
+      "department": "dsddsds",
+      "position": "dsds",
+      "agreementDate": "2024-12-25",
+      "imgURL": "blob:http://localhost:5173/aed281a4-f94e-4267-94f3-e804c2378d1d"
+    },
+    {
+      "id": "d8dd",
+      "name": "sd",
+      "department": "dsddsdsdsdsd",
+      "position": "ddd",
+      "agreementDate": "2024-12-31",
+      "imgURL": "blob:http://localhost:5173/8c955250-1a32-43df-af0d-c2113a0b4a70"
+    },
+    {
+      "id": "7b95",
+      "name": "sdfgfggsgsg",
+      "department": "fasf",
+      "position": "faf",
+      "agreementDate": "2025-01-10",
+      "imgURL": ""
+    }
+  ]
+}
