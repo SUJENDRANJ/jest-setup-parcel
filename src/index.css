@@ -1,0 +1,19 @@
+body {
+  user-select: none;
+}
+
+.alertBorder {
+  /* border: 1px solid; */
+  animation: blink 1s;
+  animation-iteration-count: 1;
+
+  height: 40px;
+  width: 40px;
+}
+
+@keyframes blink {
+  50% {
+    border-color: #86bbe3;
+    border-width: 5px;
+  }
+}
